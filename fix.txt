@@ -2,3 +2,4 @@ Fix #1 added -- You can safely remove this line --
 Fix #2: Very important fix added -- You can safely remove this line --
 Fix #3: New fix 03/10/2019
 line added in master branch
+line added in generate-conflict branch
